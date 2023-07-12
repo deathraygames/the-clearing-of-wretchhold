@@ -1,0 +1,25 @@
+{
+  "name": "the-clearing-of-wretchhold",
+  "version": "1.0.0",
+  "description": "Game made for Dungeon Jam 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server",
+    "rollup": "rollup --config rollup.config.mjs",
+    "build": "npm run rollup",
+    "watch": "rollup --config rollup.config.mjs -w"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dungeon-boots": "github:rocket-boots/dungeon-boots#semver:1.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.2",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "http-server": "^14.1.1",
+    "rocket-boots-eslint": "github:rocket-boots/rocket-boots-eslint",
+    "rollup": "^3.26.2"
+  }
+}
