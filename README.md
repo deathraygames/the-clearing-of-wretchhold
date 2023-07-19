@@ -1,6 +1,6 @@
 # The Clearing of Wretchhold
 
-***A web game made for [Dungeon Jam 2023](https://itch.io/jam/dcjam2023)***
+***A web game made for [Dungeon Jam 2023](https://itch.io/jam/dcjam2023) using [Dungeon Boots](https://github.com/rocket-boots/dungeon-boots)***
 
 ## Try it out
 
@@ -29,6 +29,10 @@ Play it on itch: https://deathray.itch.io/the-clearing-of-wretchhold
 4. Open in your browser (e.g., `http://192.168.1.162:8080/`)
 5. If you're making code changes, then build with `npm run watch` or `npm run build`
 
+## Screenshot
+
+![Screenshot of The Clearing of Wretchhhold](https://rocket-boots.github.io/dungeon-boots/images/screenshot2.PNG)
+
 ## Credits
 
 The Clearing of Wretchhold:
@@ -48,4 +52,7 @@ The [Dungeon Boots engine v1.0.0](https://github.com/rocket-boots/dungeon-boots/
 - Rocket Utility Belt (https://github.com/rocket-boots/rocket-utility-belt)
 - rocket-boots-three-toolbox (https://github.com/rocket-boots/rocket-boots-three-toolbox)
 
-![Screenshot of The Clearing of Wretchhhold](https://rocket-boots.github.io/dungeon-boots/images/screenshot2.PNG)
+
+## Reviews
+
+* By Kordanor: https://www.youtube.com/watch?v=cQohXIvcc3c
